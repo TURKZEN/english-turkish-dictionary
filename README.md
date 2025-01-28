@@ -2,8 +2,6 @@
 
 English-Turkish Dictionary in CLI
 
-![screenshot](https://github.com/TURKZEN/english-turkish-dictionary/blob/main/images/word.png)
-
 ## Installation
 
 Use the cargo [rustup](https://rustup.rs/) to install dictionary.
