@@ -2,7 +2,7 @@
 
 English-Turkish Dictionary in CLI
 
-![screenshot](https://github.com/TURKZEN/english-turkish-dictionary/images/word.png)
+![screenshot](https://github.com/TURKZEN/english-turkish-dictionary/blob/main/images/word.png)
 
 ## Installation
 
