@@ -1,0 +1,16 @@
+[package]
+name = "english-turkish-dictionary"
+version = "0.1.0"
+edition = "2021"
+authors = ["Batuhan Türkarslan <batuhanthd@gmail.com>"]
+license = "MIT"
+description = "English-Turkish Dictionary in CLI"
+readme = "README.md"
+homepage = "https://github.com/TURKZEN/english-turkish-dictionary"
+repository = "https://github.com/TURKZEN/english-turkish-dictionary"
+keywords = ["cli", "dictionary", "turkish","english"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
